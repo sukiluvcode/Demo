@@ -23,3 +23,4 @@ l = [1, 2, 3, 4, 5, 5]
 print(gensubset(l))
 #this is a change
 #again i just wanna to test this function
+#final terms
